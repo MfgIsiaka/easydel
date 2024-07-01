@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089792746236",
+    "project_id": "easydel-4b919",
+    "storage_bucket": "easydel-4b919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089792746236:android:2834be043649c9642ded79",
+        "android_client_info": {
+          "package_name": "com.example.osm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzxAV07Mp-B3OpQmH1V7nIS4bVHwxt9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
