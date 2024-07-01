@@ -1,4 +1,4 @@
-# osm
+# easydel
 
 A new Flutter project.
 
